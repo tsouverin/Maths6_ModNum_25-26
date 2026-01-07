@@ -36,6 +36,13 @@ jupyter notebook
 ```
 Cela ouvrira une interface dans votre navigateur où vous pourrez accéder aux fichiers `.ipynb`.
 
+### **4. Avant chaque séance**
+En vous placant dans le dossier correspondant au projet, utilisez la commande suivante pour télécharger les dernières modifications, et être sûrs d'avoir toutes les séances et corrections à jour :
+```bash
+cd ./Maths6_ModNum_25-26
+git pull
+```
+
 ---
 
 ## **Organisation des fichiers**
