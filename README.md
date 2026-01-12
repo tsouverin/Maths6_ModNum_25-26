@@ -24,7 +24,7 @@ python -m pip install notebook
 ``` 
 
 ### **2. Importer le projet**
-Pour récupérer le projet, cliquez sur le bontou vert "Code" en haut à droite de cette page, puis télécharger le fichier zip.
+Pour récupérer le projet, cliquez sur le bontou vert "<> Code" en haut à droite de cette page, puis télécharger le fichier zip.
 Décompressez-le dans le répertoire de votre choix sur votre machine.
 
 ### **3. Installer les dépendances**
@@ -44,7 +44,7 @@ Cela ouvrira une interface dans votre navigateur où vous pourrez accéder aux f
 ### **4. Avant chaque séance**
 Téléchargé le nouveau fichier zip du projet depuis GitHub et décompressez-le. Ce nouveau dossier contiendra les nouvelles séances et corrections à jour.
 
-/!\ Assurez-vous de sauvegarder vos travaux si vous remplacer les anciens fichiers par des nouveaux.
+:exclamation: Assurez-vous de sauvegarder vos travaux si vous remplacer les anciens fichiers par des nouveaux.
 
 <!-- ### **4. Avant chaque séance**
 En vous placant dans le dossier correspondant au projet, utilisez la commande suivante pour télécharger les dernières modifications, et être sûrs d'avoir toutes les séances et corrections à jour :
