@@ -16,32 +16,42 @@ Aucun prérequis n'est nécessaire, que ce soit en programmation sous python ou 
 
 ## **Instructions**
 
-### **1. Cloner le projet**
-Pour récupérer le projet, utilisez la commande suivante dans votre terminal :
-```bash
-git clone git@github.com:tsouverin/Maths6_ModNum_25-26.git
-cd ./Maths6_ModNum_25-26
-```
+### **1. Installation de Jupyter Notebook**
 
-### **2. Installer les dépendances**
-Assurez-vous d'avoir Python 3.8 ou une version ultérieure installée. Ensuite, installez les dépendances nécessaires avec la commande suivante :
+Pour installer Jupyter Notebook, ouvrez un terminal et exécutez la commande suivante :
 ```bash
-pip install -r requirements.txt
+python3 -m pip install notebook
+``` 
+
+### **2. Importer le projet**
+Pour récupérer le projet, cliquez sur le bontou vert "Code" en haut à droite de cette page, puis télécharger le fichier zip.
+Décompressez-le dans le répertoire de votre choix sur votre machine.
+
+### **3. Installer les dépendances**
+ Ensuite, placez vous dans le répertoire du projet et installez les dépendances nécessaires avec la commande suivante dans votre terminal:
+```bash
+cd ./chemin_vers_projet/Maths6_ModNum_25-26
+python3 -m pip install -r requirements.txt
 ```
 
 ### **3. Lancer Jupyter Notebook**
 Pour démarrer l'environnement Jupyter Notebook, exécutez la commande suivante dans le répertoire du projet :
 ```bash
-jupyter notebook
+python3 -m notebook
 ```
 Cela ouvrira une interface dans votre navigateur où vous pourrez accéder aux fichiers `.ipynb`.
 
 ### **4. Avant chaque séance**
+Téléchargé le nouveau fichier zip du projet depuis GitHub et décompressez-le. Ce nouveau dossier contiendra les nouvelles séances et corrections à jour.
+
+/!\ Assurez-vous de sauvegarder vos travaux si vous remplacer les anciens fichiers par des nouveaux.
+
+<!-- ### **4. Avant chaque séance**
 En vous placant dans le dossier correspondant au projet, utilisez la commande suivante pour télécharger les dernières modifications, et être sûrs d'avoir toutes les séances et corrections à jour :
 ```bash
 cd ./Maths6_ModNum_25-26
 git pull
-```
+``` -->
 
 ---
 
