@@ -20,7 +20,7 @@ Aucun prérequis n'est nécessaire, que ce soit en programmation sous python ou 
 
 Pour installer Jupyter Notebook, ouvrez un terminal et exécutez la commande suivante :
 ```bash
-python3 -m pip install notebook
+python -m pip install notebook
 ``` 
 
 ### **2. Importer le projet**
@@ -31,13 +31,13 @@ Décompressez-le dans le répertoire de votre choix sur votre machine.
  Ensuite, placez vous dans le répertoire du projet et installez les dépendances nécessaires avec la commande suivante dans votre terminal:
 ```bash
 cd ./chemin_vers_projet/Maths6_ModNum_25-26
-python3 -m pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ### **3. Lancer Jupyter Notebook**
 Pour démarrer l'environnement Jupyter Notebook, exécutez la commande suivante dans le répertoire du projet :
 ```bash
-python3 -m notebook
+python -m notebook
 ```
 Cela ouvrira une interface dans votre navigateur où vous pourrez accéder aux fichiers `.ipynb`.
 
