@@ -28,21 +28,21 @@ Pour récupérer le projet, cliquez sur le bontou vert "<> Code" en haut à droi
 Décompressez-le dans le répertoire de votre choix sur votre machine.
 
 ### **3. Installer les dépendances**
- Ensuite, placez vous dans le répertoire du projet et installez les dépendances nécessaires avec la commande suivante dans votre terminal:
+Ensuite, placez vous dans le répertoire du projet et installez les dépendances nécessaires avec la commande suivante dans votre terminal:
 ```bash
 cd ./chemin_vers_projet/Maths6_ModNum_25-26
 python -m pip install -r requirements.txt
 ```
 
-### **3. Lancer Jupyter Notebook**
+### **4. Lancer Jupyter Notebook**
 Pour démarrer l'environnement Jupyter Notebook, exécutez la commande suivante dans le répertoire du projet :
 ```bash
 python -m notebook
 ```
 Cela ouvrira une interface dans votre navigateur où vous pourrez accéder aux fichiers `.ipynb`.
 
-### **4. Avant chaque séance**
-Téléchargé le nouveau fichier zip du projet depuis GitHub et décompressez-le. Ce nouveau dossier contiendra les nouvelles séances et corrections à jour.
+### **5. Avant chaque séance**
+Téléchargez le nouveau fichier zip du projet depuis GitHub et décompressez-le. Ce nouveau dossier contiendra les nouvelles séances et corrections à jour.
 
 :exclamation: Assurez-vous de sauvegarder vos travaux si vous remplacer les anciens fichiers par des nouveaux.
 
