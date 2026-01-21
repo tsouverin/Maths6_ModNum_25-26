@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Arrakis",
+        "mass": 5.972167867791379e+24,
+        "position": [
+            179517444840.0,
+            0.0
+        ],
+        "gas_planet": false,
+        "color": [
+            255,
+            150,
+            0
+        ],
+        "apparent_size": 4
+    },
+    {
+        "name": "Hoth",
+        "mass": 2.3888671471165517e+25,
+        "position": [
+            1495978707000.0,
+            0.0
+        ],
+        "gas_planet": false,
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "apparent_size": 6
+    },
+    {
+        "name": "Namek",
+        "mass": 5.972167867791379e+24,
+        "position": [
+            747989353500.0,
+            0
+        ],
+        "gas_planet": false,
+        "color": [
+            50,
+            255,
+            50
+        ],
+        "apparent_size": 4
+    },
+    {
+        "name": "Vulcain",
+        "mass": 2.9860839338956896e+24,
+        "position": [
+            74798935350.0,
+            0.0
+        ],
+        "gas_planet": false,
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "apparent_size": 5
+    },
+    {
+        "name": "Grosse Planete",
+        "mass": 9.490622986680253e+27,
+        "position": [
+            1421179771650.0,
+            0
+        ],
+        "gas_planet": true,
+        "color": [
+            20,
+            50,
+            50
+        ],
+        "apparent_size": 15
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "name": "Mercure",
+        "mass": 3.302608830888633e+23,
+        "position": [
+            57894375960.9,
+            0.0
+        ],
+        "gas_planet": false,
+        "color": [
+            169,
+            169,
+            169
+        ],
+        "apparent_size": 4
+    },
+    {
+        "name": "Venus",
+        "mass": 4.867316812249974e+24,
+        "position": [
+            108159260516.09999,
+            0.0
+        ],
+        "gas_planet": false,
+        "color": [
+            255,
+            200,
+            0
+        ],
+        "apparent_size": 6
+    },
+    {
+        "name": "Terre",
+        "mass": 5.972167867791379e+24,
+        "position": [
+            149597870700.0,
+            0
+        ],
+        "gas_planet": false,
+        "color": [
+            0,
+            100,
+            255
+        ],
+        "apparent_size": 6
+    },
+    {
+        "name": "Mars",
+        "mass": 6.390219618536776e+23,
+        "position": [
+            227388763464.0,
+            0.0
+        ],
+        "gas_planet": false,
+        "color": [
+            255,
+            100,
+            0
+        ],
+        "apparent_size": 5
+    },
+    {
+        "name": "Jupiter",
+        "mass": 1.8981245973360505e+27,
+        "position": [
+            762949140570.0,
+            0
+        ],
+        "gas_planet": true,
+        "color": [
+            200,
+            150,
+            100
+        ],
+        "apparent_size": 10
+    },
+    {
+        "name": "Saturne",
+        "mass": 2.360200741351153e+25,
+        "position": [
+            1431651622599.0,
+            0.0
+        ],
+        "gas_planet": true,
+        "color": [
+            255,
+            150,
+            100
+        ],
+        "apparent_size": 9
+    },
+    {
+        "name": "Uranus",
+        "mass": 8.6596434082975e+25,
+        "position": [
+            2867791181319.0005,
+            0.0
+        ],
+        "gas_planet": true,
+        "color": [
+            150,
+            200,
+            255
+        ],
+        "apparent_size": 7
+    },
+    {
+        "name": "Neptune",
+        "mass": 1.0212407053923259e+26,
+        "position": [
+            4514863737726.0,
+            0.0
+        ],
+        "gas_planet": true,
+        "color": [
+            100,
+            150,
+            255
+        ],
+        "apparent_size": 7
+    },
+    {
+        "name": "Pluton",
+        "mass": 1.2899882594429378e+22,
+        "position": [
+            7330295664300.0,
+            0.0
+        ],
+        "gas_planet": false,
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "apparent_size": 3
+    }
+]
