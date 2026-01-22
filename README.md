@@ -41,6 +41,11 @@ python -m notebook
 ```
 Cela ouvrira une interface dans votre navigateur où vous pourrez accéder aux fichiers `.ipynb`.
 
+Si vous avez sauvegardé vos travaux dans un autre disque, par exemple "P:", vous pouvez lancer Jupyter Notebook directement dans ce répertoire en utilisant la commande suivante :
+```bash
+python -m notebook --notebook-dir="P:/chemin_vers_projet/Maths6_ModNum_25-26"
+```
+
 ### **5. Avant chaque séance**
 Téléchargez le nouveau fichier zip du projet depuis GitHub et décompressez-le. Ce nouveau dossier contiendra les nouvelles séances et corrections à jour.
 
