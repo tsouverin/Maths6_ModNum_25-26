@@ -26,3 +26,12 @@ def planck_law(lam, T):
     T   : température en K
     """
     return (2 * h * c**2) / (lam**5 * (np.exp((h * c) / (lam * k_B * T)) - 1))
+
+# Spectre du corps noir (simplifié)
+def planck_law(lam, T):
+    """
+    Renvoie la luminance spectrale B_lambda(T)
+    lam : longueur d'onde en m
+    T   : température en K
+    """
+    return (2 * h * c**2) / (lam**5 * (np.exp((h * c) / (lam * k_B * T)) - 1))
